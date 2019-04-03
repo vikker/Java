@@ -1,1 +1,1 @@
-# Java tasks of different difficulty.
+# Java tasks.
