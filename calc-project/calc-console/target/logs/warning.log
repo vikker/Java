@@ -1,0 +1,9 @@
+12:12:08.039 [main] WARN  c.e.r.s.calc.interfaces.Calc - You should pass 3 parameters for calculating: number1, number2, operator
+12:12:36.963 [main] WARN  c.e.r.s.calc.interfaces.Calc - You should input the third parameter as an operator. It must be one symbol
+13:17:25.228 [main] WARN  c.e.r.s.calc.interfaces.Calc - You should pass 3 parameters for calculating: number1, number2, operator
+13:17:55.836 [main] WARN  c.e.r.s.calc.interfaces.Calc - You should pass 3 parameters for calculating: number1, number2, operator
+13:18:07.192 [main] WARN  c.e.r.s.calc.interfaces.Calc - First parameter is not a number!
+13:18:19.965 [main] WARN  c.e.r.s.calc.interfaces.Calc - Second parameter is not a number!
+13:18:27.361 [main] WARN  c.e.r.s.calc.interfaces.Calc - You should input the third parameter as an operator. It must be one symbol
+13:18:38.674 [main] WARN  c.e.r.s.calc.interfaces.Calc - You should input the third parameter as an operator. It must be one symbol
+13:22:45.074 [main] WARN  c.e.r.s.calc.interfaces.Calc - <<Dividing by zero>>
