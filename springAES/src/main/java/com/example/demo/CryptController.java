@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-public class GreetingController {
+public class CryptgController {
 
     Crypter crypt = new Crypter();
 
