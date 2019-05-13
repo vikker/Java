@@ -52,7 +52,8 @@ public class Crypter {
         }
     }
 
-    String salt = KeyGenerators.string().generateKey();
+    String salt = "aad22b57f8917b69";
+//    String salt = KeyGenerators.string().generateKey();
 
     TextEncryptor encryptor = Encryptors.text(key, salt);
 
@@ -84,4 +85,7 @@ public class Crypter {
         this.origin = origin;
     }
 
+    public String getSalt() {
+        return salt;
+    }
 }
